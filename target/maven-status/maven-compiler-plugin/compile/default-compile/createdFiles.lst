@@ -1,0 +1,5 @@
+inf\frohlich\produtoservicedocker\controller\ProdutoController.class
+inf\frohlich\produtoservicedocker\ProdutoServiceDockerApplication.class
+inf\frohlich\produtoservicedocker\repositoy\ProdutoRepository.class
+inf\frohlich\produtoservicedocker\service\ProdutoService.class
+inf\frohlich\produtoservicedocker\model\Produto.class
